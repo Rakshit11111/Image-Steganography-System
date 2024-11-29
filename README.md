@@ -21,6 +21,7 @@ C++ Compiler (e.g., GCC).
 Clone the Repository:
 
 git clone https://github.com/YourUsername/ImageSteganographySystem.git
+
 cd ImageSteganographySystem
 
 Build the Application:
